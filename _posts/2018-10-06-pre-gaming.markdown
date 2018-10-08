@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Prerequisites..."
-date:   2018-09-30 19:22:07 -0400
+date:   2018-10-06 19:22:07 -0400
 categories: update nanodegree deeplearning personal
 ---
 [badge]: https://www.codewars.com/users/feeddahbirds/badges/large  "I AM. THE WARRIOR"
