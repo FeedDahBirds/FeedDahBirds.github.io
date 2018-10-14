@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Making Mistakes"
-date:   2018-10-014 15:22:07 -0400
+date:   2018-10-14 15:22:07 -0400
 categories: pokemon ai recognition
 ---
 
